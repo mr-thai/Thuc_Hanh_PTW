@@ -24,7 +24,9 @@ namespace Harmic.Controllers
             {
                 return NotFound();
             }
-            var product = await _context.TbProducts.Include(i => i.CategoryProduct).FirstOrDefaultAsync(m => m.ProductId == id);
+            var product = await _context.TbProducts
+                .Include(i => i.CategoryProduct)
+                .FirstOrDefaultAsync(m => m.ProductId == id);
             if (product == null)
             {
                 return NotFound();

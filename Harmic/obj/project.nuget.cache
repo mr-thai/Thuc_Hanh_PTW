@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Iafz6lwaR7s=",
+  "dgSpecHash": "FE4tvhmcSro=",
   "success": true,
   "projectFilePath": "D:\\Project\\Harmic\\Harmic\\Harmic\\Harmic.csproj",
   "expectedPackageFiles": [
@@ -92,7 +92,7 @@
     "C:\\Users\\mrtha\\.nuget\\packages\\microsoft.entityframeworkcore.design\\10.0.0-rc.1.25451.107\\microsoft.entityframeworkcore.design.10.0.0-rc.1.25451.107.nupkg.sha512",
     "C:\\Users\\mrtha\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.0-rc.1.25451.107\\microsoft.entityframeworkcore.relational.10.0.0-rc.1.25451.107.nupkg.sha512",
     "C:\\Users\\mrtha\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.0-rc.1.25451.107\\microsoft.entityframeworkcore.sqlserver.10.0.0-rc.1.25451.107.nupkg.sha512",
-    "C:\\Users\\mrtha\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.10\\microsoft.entityframeworkcore.tools.9.0.10.nupkg.sha512",
+    "C:\\Users\\mrtha\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0-rc.1.25451.107\\microsoft.entityframeworkcore.tools.10.0.0-rc.1.25451.107.nupkg.sha512",
     "C:\\Users\\mrtha\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0-rc.1.25451.107\\microsoft.extensions.dependencymodel.10.0.0-rc.1.25451.107.nupkg.sha512",
     "C:\\Users\\mrtha\\.nuget\\packages\\microsoft.identity.client\\4.73.1\\microsoft.identity.client.4.73.1.nupkg.sha512",
     "C:\\Users\\mrtha\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.73.1\\microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",

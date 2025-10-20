@@ -45,7 +45,7 @@
           "Microsoft.EntityFrameworkCore": "10.0.0-rc.1.25451.107",
           "Microsoft.EntityFrameworkCore.Design": "10.0.0-rc.1.25451.107",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.0-rc.1.25451.107",
-          "Microsoft.EntityFrameworkCore.Tools": "9.0.10",
+          "Microsoft.EntityFrameworkCore.Tools": "10.0.0-rc.1.25451.107",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "10.0.0-rc.1.25458.5",
           "SixLabors.ImageSharp": "3.1.11",
           "SlugGenerator": "2.0.2",
@@ -4503,7 +4503,7 @@
       "Microsoft.EntityFrameworkCore.Analyzers/10.0.0-rc.1.25451.107": {
         "compileOnly": true
       },
-      "Microsoft.EntityFrameworkCore.Tools/9.0.10": {
+      "Microsoft.EntityFrameworkCore.Tools/10.0.0-rc.1.25451.107": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "10.0.0-rc.1.25451.107"
         },
@@ -7033,12 +7033,12 @@
       "path": "microsoft.entityframeworkcore.analyzers/10.0.0-rc.1.25451.107",
       "hashPath": "microsoft.entityframeworkcore.analyzers.10.0.0-rc.1.25451.107.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Tools/9.0.10": {
+    "Microsoft.EntityFrameworkCore.Tools/10.0.0-rc.1.25451.107": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lFM5KSu1CCla1+wzhjwo5Ex/idUxbdZApKD9yNUbmcCBgW1SJ8E8mz7ECOf5gaCjjjII8f5ztJAmUt5Ez8koAQ==",
-      "path": "microsoft.entityframeworkcore.tools/9.0.10",
-      "hashPath": "microsoft.entityframeworkcore.tools.9.0.10.nupkg.sha512"
+      "sha512": "sha512-47c17riG01VfaRgpXs2SD8bZxxVNpI1bGZxJkIM0snUOR9DJUL8wfzOmygSqBsc+zua+PLbi16P7r2Q8Ycf1GA==",
+      "path": "microsoft.entityframeworkcore.tools/10.0.0-rc.1.25451.107",
+      "hashPath": "microsoft.entityframeworkcore.tools.10.0.0-rc.1.25451.107.nupkg.sha512"
     },
     "Newtonsoft.Json.Bson/1.0.2": {
       "type": "package",

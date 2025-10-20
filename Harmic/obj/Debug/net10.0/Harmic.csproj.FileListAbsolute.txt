@@ -2683,5 +2683,6 @@ D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\refint\Harmic.dll
 D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\Harmic.pdb
 D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\Harmic.genruntimeconfig.cache
 D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\ref\Harmic.dll
-D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\compressed\gnx9c9rtq2-{0}-8phrteuiuk-8phrteuiuk.gz
-D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\compressed\0n7ywp6rts-{0}-8phrteuiuk-8phrteuiuk.gz
+D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\compressed\gnx9c9rtq2-{0}-qg2p6z7lys-qg2p6z7lys.gz
+D:\Project\Harmic\Harmic\Harmic\obj\Debug\net10.0\compressed\0n7ywp6rts-{0}-qg2p6z7lys-qg2p6z7lys.gz

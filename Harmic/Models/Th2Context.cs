@@ -110,7 +110,7 @@ public partial class Th2Context : DbContext
             entity.Property(e => e.Name).HasMaxLength(50);
             entity.Property(e => e.Phone).HasMaxLength(50);
 
-            entity.HasOne(d => d.Blog).WithMany(p => p.TbBlogComments)
+            entity.HasOne(d => d.Blog).WithMany(p => p.TbBlogComment)
                 .HasForeignKey(d => d.BlogId)
                 .HasConstraintName("FK_tb_BlogComment_tb_Blog");
         });
